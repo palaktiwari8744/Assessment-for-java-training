@@ -56,6 +56,20 @@ This is a Java-based console application designed to manage a smart campus syste
 - Improved menu-driven UI
 - Total fee calculator
 
+## MCQs ANSWERS
+MCQ 1:
+✔ B. HashMap<Student, ArrayList<Course>
+➡ Fast lookup + supports multiple courses per student
+MCQ 2:
+✔ C. Throw a custom exception like InvalidFeeException
+➡ Best practice for validation
+MCQ 3:
+✔ B. Use synchronized block or thread-safe collection
+➡ Prevents data inconsistency
+MCQ 4:
+✔ B. Interface
+➡ Forces method implementation (calculateFee())
+
 
 ---
 
